@@ -10,6 +10,14 @@ and the partition function at inverse temperature $\beta$
 ```
 for a given configuration of spins $\{s_i\}$ on an $L^2$ lattice with periodic boundary conditions and nearst neighbor (NN) interactions. In this notebook, we will examine aspects of Monte Carlo simulations in the context of the spin 1/2 square lattice Ising model, and using simulated data, we will explore various data analysis techniques. The idea of this notebook is to tie together the physics of the Ising model, Monte Carlo simulations, and statistical analysis into one project. Below we give a rough sketch of the outline of this project. Furthermore, this project is a work in progres and will used expanded upon as new topics are visited.
 
+
+Monte Carlo Ising model simulation             |  Comparison of update methods
+:-------------------------:|:-------------------------:
+![IM](https://github.com/user-attachments/assets/7f47c924-2faf-4ca6-badc-62595b115630)  |  ![image](https://github.com/user-attachments/assets/34a1db2f-90ad-4dfb-ba6a-1309bb129de5)
+
+
+
+
 __Sections:__
 1. Exact Ising Model Computations for Small Lattices
     - Generation of configurations, thermodynamic functions, density of states, energy distributions
